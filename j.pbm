@@ -1,6 +1,5 @@
 P1
-#Comment by Liam
-#comment by Craig
+# This is an example bitmap of the letter "J"
 6 10
 0 0 0 0 1 0
 0 0 0 0 1 0
@@ -12,7 +11,4 @@ P1
 0 1 1 1 0 0
 0 0 0 0 0 0
 0 0 0 0 0 0
-0 0 0 0 0 0
 
-# Hello there :)
-#My attempt at a commit
