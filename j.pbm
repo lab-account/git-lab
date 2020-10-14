@@ -18,19 +18,5 @@ P1
 
 
 # push try3 Pawel
-# Kamil B00344208
-
-# This is an example bitmap of the letter "K"
-7 10
-0 0 0 0 0 0 0
-0 1 0 0 0 1 0
-0 1 0 0 1 0 0
-0 1 0 1 0 0 0
-0 1 1 0 0 0 0
-0 1 1 0 0 0 0
-0 1 0 1 0 0 0
-0 1 0 0 1 0 0
-0 1 0 0 0 1 0
-0 0 0 0 0 0 0
 
 # TC-push https://www.youtube.com/watch?v=dQw4w9WgXcQ
